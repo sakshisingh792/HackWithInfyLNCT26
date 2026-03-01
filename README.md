@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1408-string-matching-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1408-string-matching-in-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [1408-string-matching-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1408-string-matching-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
