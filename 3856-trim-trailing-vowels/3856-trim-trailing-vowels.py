@@ -6,11 +6,7 @@ class Solution:
             i-=1
         
 
-        lst=[]
-        for j in range(i+1):
-            lst.append(s[j])
-
-        return "".join(lst)    
+        return s[:i+1]    
          
             
         
