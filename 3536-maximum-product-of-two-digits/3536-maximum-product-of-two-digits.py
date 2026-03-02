@@ -1,10 +1,10 @@
 class Solution:
     def maxProduct(self, n: int) -> int:
-        s=str(n)
-        maxm=0
-        for i in range(len(s)):
-            for j in range(i+1,len(s)):
-                prod=int(s[i])*int(s[j])
+        num=[]
+        while n>0:
+            d=n%10
+            num.append(d)
+            n=n//10
+        num.sort()
 
-                maxm=max(prod,maxm)
-        return maxm
+        return num[-1]*num[-2]    
