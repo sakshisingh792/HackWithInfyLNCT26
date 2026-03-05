@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0206-reverse-linked-list) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
