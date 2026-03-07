@@ -80,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 ## Array
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1408-string-matching-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1408-string-matching-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -136,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
