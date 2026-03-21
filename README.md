@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Geometry
 |  |
 | ------- |
