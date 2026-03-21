@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0389-find-the-difference) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1408-string-matching-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1408-string-matching-in-an-array) |
 ## Dynamic Programming
 |  |
