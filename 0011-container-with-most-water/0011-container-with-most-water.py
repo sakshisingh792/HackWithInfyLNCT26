@@ -4,7 +4,7 @@ class Solution:
         i,j=0,n-1
         max_area=float("-inf")
 
-        while i<n and j>0:
+        while i<j:
             breadth=j-i
             heights=min(height[i],height[j])
             area=breadth*heights
