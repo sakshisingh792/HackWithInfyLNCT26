@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0389-find-the-difference) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1518-water-bottles](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1518-water-bottles) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0496-next-greater-element-i) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Simulation
 |  |
 | ------- |
@@ -327,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
