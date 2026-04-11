@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1323-maximum-69-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1518-water-bottles) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0860-lemonade-change) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1408-string-matching-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1408-string-matching-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0860-lemonade-change) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1323-maximum-69-number) |
 | [1754-largest-merge-of-two-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1754-largest-merge-of-two-strings) |
 | [1936-add-minimum-number-of-rungs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1936-add-minimum-number-of-rungs) |
