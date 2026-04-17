@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1232-check-if-it-is-a-straight-line](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1408-string-matching-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1408-string-matching-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1936-add-minimum-number-of-rungs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1936-add-minimum-number-of-rungs) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2079-watering-plants](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2079-watering-plants) |
