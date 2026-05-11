@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1408-string-matching-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1408-string-matching-in-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 ## Trie
 |  |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Union-Find
 |  |
