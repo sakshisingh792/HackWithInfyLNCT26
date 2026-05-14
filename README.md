@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2611-mice-and-cheese](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2611-mice-and-cheese) |
 | [2784-check-if-array-is-good](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3100-water-bottles-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3100-water-bottles-ii) |
 ## String Matching
