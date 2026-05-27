@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1323-maximum-69-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1323-maximum-69-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0376-wiggle-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 ## Geometry
 |  |
 | ------- |
@@ -479,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
